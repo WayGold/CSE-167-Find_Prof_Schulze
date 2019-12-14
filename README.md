@@ -3,7 +3,7 @@
 ## Project Name: Find Prof.Schulze
 
 ### Team Members:
-Xu, Wei 
+Xu, Wei
 Wei, Zeng
 
 ### FINAL VIDEO LINK:
