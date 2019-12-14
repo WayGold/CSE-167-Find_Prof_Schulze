@@ -3,9 +3,8 @@
 ## Project Name: Find Prof.Schulze
 
 ### Team Members:
-A53302898 Xu, Wei
-
-A13487193 Wei, Zeng
+Xu, Wei 
+Wei, Zeng
 
 ### FINAL VIDEO LINK:
 https://www.youtube.com/watch?v=pxeK5F5O6KI
